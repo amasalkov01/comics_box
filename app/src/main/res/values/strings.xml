@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Comics Box</string>
+    <string name="cd_search">Search</string>
+    <string name="cd_open_navigation_drawer">Open navigation drawer</string>
+    <string name="tittle_the_story">The Story</string>
+
+</resources>
